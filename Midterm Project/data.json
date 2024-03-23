@@ -1,0 +1,245 @@
+{
+    "sports": 
+    [
+        {
+            "sport": "Soccer",
+            "url": "https://t4.ftcdn.net/jpg/00/86/41/89/360_F_86418998_mQ7NZfxcfR1hK1PDbVDSUkr6TFZbNRc0.jpg",
+            "data": "soccerEquipment"
+        },
+        {
+            "sport": "Hockey",
+            "url": "https://media.istockphoto.com/id/1332278067/photo/ice-hockey-rink-arena-professional-player-shooting-the-puck-with-hockey-stick-focus-on-3d.jpg?s=612x612&w=0&k=20&c=picKnAwYSiQ8kQeuF6E4PSC2XQKB2cHO6UaUcfiyhhE=",
+            "data": "hockeyEquipment"
+        },
+        {
+            "sport": "Football",
+            "url": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg",
+            "data": "footballEquipment"
+        },
+        {
+            "sport": "Baseball",
+            "url": "https://burst.shopifycdn.com/photos/baseball-bat-ball.jpg?width=1000&format=pjpg&exif=0&iptc=0",
+            "data": "baseballEquipment"
+        },
+        {
+            "sport": "Basketball",
+            "url": "https://www.ncaa.org/images/2023/3/30/MBB-WBB_BallHoop.JPG",
+            "data": "basketballEquipment"
+        },
+        {
+            "sport": "Golf",
+            "url": "https://villagrouploreto.s3.amazonaws.com/uploads/article/cover_en/391/what-golf-clubs-to-use-for-each-shot.jpg",
+            "data": "golfEquipment"
+        }
+    ],
+    "soccerEquipment":
+    [
+        {
+            "name": "Soccer Ball",
+            "url": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c1f0d392-8cd0-4828-af3d-68e3bb0df3d8/flight-soccer-ball-WvVX79.png",
+            "price": "$9.99",
+            "datePosted": "2/19/2024",
+            "poster": "John Stamos",
+            "description": "Nike Flight Soccer Ball"
+        },
+        {
+            "name": "Soccer Cleats",
+            "url": "https://www.gosupps.com/media/catalog/product/cache/25/image/1500x/040ec09b1e35df139433887a97daa66f/7/1/71HvotnYltL._AC_UL1001_.jpg",
+            "price": "$30",
+            "datePosted": "1/9/2024",
+            "poster": "Mary Jane",
+            "description": "MFSH Unisex Soccer Cleats with sock collar"
+        },
+        {
+            "name": "Goalkeeper Gloves",
+            "url": "https://cdn.mall.adeptmind.ai/https%3A%2F%2Fdks.scene7.com%2Fis%2Fimage%2FGolfGalaxy%2F22SRLUGLDTRPRGLVSSCG_Black_large.jpg",
+            "price": "$25",
+            "datePosted": "2/2/2024",
+            "poster": "Ben White",
+            "description": "Storelli Gladiator Pro 3 Goalkeeper Gloves"
+        },
+        {
+            "name": "Shin Guards",
+            "url": "https://academy.scene7.com/is/image/academy/20484364?$pdp-gallery-ng$",
+            "price": "$14.99",
+            "datePosted": "12/28/2023",
+            "poster": "Steve Anderson",
+            "description": "Nike Adults J Guard Shin Guards"
+        }
+    ],
+    "hockeyEquipment":
+    [
+        {
+            "name": "Hockey Stick",
+            "url": "https://media.purehockey.com/images/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/57178/41/163562/ccm-jetspeed-ft660-composite-hockey-stick-senior",
+            "price": "$15",
+            "datePosted": "1/1/2000",
+            "poster": "Jane Doe",
+            "description": "CCM JetSpeed FT660"
+        },
+        {
+            "name": "Hockey Helmet",
+            "url": "https://www.bauer.com/cdn/shop/products/610015__black_1.png?v=1662051473",
+            "price": "$30",
+            "datePosted": "2/2/2002",
+            "poster": "Bowen Higgins",
+            "description": "RE-AKT 150"
+        },
+        {
+            "name": "Hockey Gloves",
+            "url": "https://media.purehockey.com/images/q_auto,f_auto,fl_lossy,c_lpad,b_auto,w_400,h_400/products/59555/31/163195/bauer-vapor-elite-hockey-gloves-intermediate-black-yellow",
+            "price": "$15",
+            "datePosted": "3/3/2003",
+            "poster": "Franklin Sierra",
+            "description": "Bauer Vapor Elite"
+        },
+        {
+            "name": "Ice Skates",
+            "url": "https://www.bauer.com/cdn/shop/products/BAUERX-LPSKATEYouth.png?v=1647952452",
+            "price": "$50",
+            "datePosted": "4/4/2004",
+            "poster": "Peter Griffin",
+            "description": "Bauer X-LP"
+        }
+    ],
+    "footballEquipment":
+    [
+        {
+            "name": "Football",
+            "url": "https://www.wilson.com/en-us/media/catalog/product/article_images/WTF1661XB_/WTF1661XB__32144f0c56ed2a46944e15f0acde68a6.png",
+            "price": "$14.99",
+            "datePosted": "2/12/2024",
+            "poster": "John Davis",
+            "description": "NCAA official sized Wilson Football"
+        },
+        {
+            "name": "Football Helmet",
+            "url": "https://www.riddell.com/medias/sys_master/images/images/h91/hac/8803254239262/-515Wx515H-FB-HELMET-SPDFX-1.png",
+            "price": "$45",
+            "datePosted": "1/19/2024",
+            "poster": "Ben Smith",
+            "description": "Riddell SpeedFlex Helmet"
+        },
+        {
+            "name": "Shoulder Pads",
+            "url": "https://i5.walmartimages.com/seo/CHAMPRO-Gauntlet-2-Football-Shoulder-Pad-4X-Large_b066f0bb-c1b7-4f68-887c-098649f07579.cfa55a5a353a27bc61e34e24d245a20b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+            "price": "$30",
+            "datePosted": "1/8/2024",
+            "poster": "Dwayne Johnson",
+            "description": "CHAMPRO Gauntlet 2 Football Shoulder Pad"
+        },
+        {
+            "name": "Football Cleats",
+            "url": "https://i.ebayimg.com/images/g/MJAAAOSw2dJjbTeJ/s-l1200.webp",
+            "price": "$35",
+            "datePosted": "1/1/2000",
+            "poster": "Grant Williams",
+            "description": "Nike Vapor Edge Speed 360 Black/Purple Football Cleats"
+        }
+    ],
+    "baseballEquipment":
+    [
+        {
+            "name": "Baseball Bat",
+            "url": "https://images.betterbaseball.com/media/catalog/product/cache/b09a0669b2bae4b290ae566ca2fa174a/m/s/msbcx_alt_1.jpg",
+            "price": "$20",
+            "datePosted": "1/1/2000",
+            "poster": "Janet Doe",
+            "description": "Marucci CAT X"
+        },
+        {
+            "name": "Baseball Glove",
+            "url": "https://dac8r2vkxfv8c.cloudfront.net/images/products/a0d1-05-22-wilson-a2k-superskin-1810-12-75--baseball-glove--wbw1008951275-35637-1_m.jpg",
+            "price": "$20",
+            "datePosted": "5/5/2005",
+            "poster": "Saige Fuentes",
+            "description": "Wilson A2K SuperSkin"
+        },
+        {
+            "name": "Baseball Helmet",
+            "url": "https://target.scene7.com/is/image/Target/GUEST_baefe5a6-bc5f-4a52-a737-5120c582892f?wid=488&hei=488&fmt=pjpeg",
+            "price": "$30",
+            "datePosted": "6/6/2006",
+            "poster": "Kylan Gentry",
+            "description": "Rawlings Coolflo"
+        },
+        {
+            "name": "Baseball Cleats",
+            "url": "https://cdn.baseballexpress.com/media/catalog/product/cache/d6a66d28f70db0cd9e6b3f0d64d0d49e/p/l/pl3000w6_2.jpg",
+            "price": "$40",
+            "datePosted": "7/7/2007",
+            "poster": "Riley Rubio",
+            "description": "New Balance 3000v6"
+        }
+    ],
+    "basketballEquipment":
+    [
+        {
+            "name": "Basketball",
+            "url": "https://target.scene7.com/is/image/Target/GUEST_20affc7e-e0d7-4eb6-a6f3-68d13520f8be?wid=488&hei=488&fmt=pjpeg",
+            "price": "$10",
+            "datePosted": "1/1/2000",
+            "poster": "Mike Doe",
+            "description": "Wilson NBA 29.5 Inch"
+        },
+        {
+            "name": "Basketball Shoes",
+            "url": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fc16260a-6e0f-41d9-9650-afadb28ac30c/giannis-immortality-3-basketball-shoes-MPBx2p.png",
+            "price": "$60",
+            "datePosted": "8/8/2008",
+            "poster": "Cedric Ferguson",
+            "description": "Giannis Immortalilty 3"
+        },
+        {
+            "name": "Basketball Hoop",
+            "url": "https://www.goalsetter.com/cdn/shop/products/goalsetter-launch-pro-basketball-hoop_basketballgoal-inground__gscollegiatebreakawayrim_7_800x.png?v=1706041820",
+            "price": "$150",
+            "datePosted": "9/9/2009",
+            "poster": "Walter Roth",
+            "description": "Launch Pro 72 Inch"
+        },
+        {
+            "name": "Basketball Rack",
+            "url": "https://m.media-amazon.com/images/I/71HcO-re1XL._AC_UF1000,1000_QL80_.jpg",
+            "price": "$35",
+            "datePosted": "10/10/2010",
+            "poster": "Deborah Valencia",
+            "description": "Tilt Ball Storage Holder"
+        }
+    ],
+    "golfEquipment":
+    [
+        {
+            "name": "Golf Irons",
+            "url": "https://www.golfalot.com/Portals/0/imagesblogs/titleist/t100sirons/review/reviewrangegroup.jpg",
+            "price": "$50",
+            "datePosted": "1/1/2000",
+            "poster": "Jim Doe",
+            "description": "Titleist T400 Irons"
+        },
+        {
+            "name": "Putter",
+            "url": "https://miuragolf.com/cdn/shop/products/KM3studio_1600x1600px.png?v=1671126451",
+            "price": "$40",
+            "datePosted": "11/11/2011",
+            "poster": "Jaxton Eaton",
+            "description": "KM3 Putter"
+        },
+        {
+            "name": "Driver",
+            "url": "https://www.taylormadegolf.com/on/demandware.static/-/Sites-tmag-master-catalog/en_US/v1709960828258/zoom/TA101_zoom_D.jpg",
+            "price": "$45",
+            "datePosted": "12/12/2012",
+            "poster": "Javier Walters",
+            "description": "Stealth 2 Plus"
+        },
+        {
+            "name": "Golf Bag",
+            "url": "https://m.media-amazon.com/images/I/61fyu0RLfYL._AC_UF1000,1000_QL80_.jpg",
+            "price": "$30",
+            "datePosted": "1/2/2013",
+            "poster": "Zane Jaramillo",
+            "description": "Titleist Players 4 Stand Bag"
+        }
+    ]
+}
