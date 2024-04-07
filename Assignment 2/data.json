@@ -1,0 +1,41 @@
+{
+    "fruits": 
+    [
+        {
+            "name": "Apple",
+            "price": 0.50,
+            "description": "Savor the succulent sweetness of an apple picked fresh from our orchard. They are perfect for a healthy snack or adding a touch of natural sweetness to your favorite recipes.",
+            "url": "https://static.vecteezy.com/system/resources/thumbnails/023/290/773/small/fresh-red-apple-isolated-on-transparent-background-generative-ai-png.png"
+        },
+        {
+            "name": "Banana",
+            "price": 0.75,
+            "description": "Indulge in the creamy richness of our premium bananas, harvested at the peak of ripeness. Blend one into a tropical smoothie or eat it on the go, no matter what our bananas promise a burst of flavor in every bite.",
+            "url": "https://images.albertsons-media.com/is/image/ABS/184060007?$ng-ecom-pdp-desktop$&defaultImage=Not_Available"
+        },
+        {
+            "name": "Orange",
+            "price": 0.47,
+            "description": "Experience the refreshing tang of our hand-selected oranges. Radiating with juicy citrus goodness, they make the perfect snack for a sunny day.",
+            "url": "https://glycemic-index.net/images/rpaE64Cepa.webp"
+        },
+        {
+            "name": "Lemon",
+            "price": 0.35,
+            "description": "Whether adding a splash of flavor to your favorite dish or brewing a pitcher of home made lemondade, our hand-picked lemons will shatter your expectations. Embrace the vibrant zest and citrus flavor of our freshly-picked lemons to elevate your culinary creations with their bold and invigorating essence.",
+            "url": "https://www.kroger.com/product/images/xlarge/front/0000000004053"
+        },
+        {
+            "name": "Lime",
+            "price": 0.25,
+            "description": "Explore the invigorating burst of zest and tang in our hand-picked limes, perfect for adding a refreshing twist to your culinary creations. Whether squeezed into cocktails, drizzled over seafood, or infused into marinades, our limes promise to brighten every dish with their lively citrus flavor.",
+            "url": "https://t3.ftcdn.net/jpg/05/55/83/08/360_F_555830868_xR11zq3ouWZtzMmTJJVOA6lQz4s59lqm.jpg"
+        },
+        {
+            "name": "Kiwi",
+            "price": 0.90,
+            "description": "Discover the exotic sweetness and vibrant green hue of our succulent kiwis, hand-picked for optimal ripeness. Whether enjoyed sliced as a refreshing snack, blended into smoothies, or added to fruit salads for a burst of tropical flavor, our kiwis promise a delightful taste of paradise in every bite.",
+            "url": "https://static.vecteezy.com/system/resources/previews/008/532/603/original/kiwi-fruit-cutout-file-png.png"
+        }
+    ]
+}
